@@ -166,3 +166,7 @@ SELECT last_name, COUNT(first_name) AS "last_name_count"
 	GROUP BY last_name
 	ORDER BY "last_name_count" DESC;
 ```
+
+
+## Employee Salary
+![data2](EmployeeSQL/Bonus/SalariesVsTitles.png)
