@@ -7,5 +7,5 @@ This project involves conducting a research project on employees of the corporat
 >   * Data Analysis
 
 ## Objectives 
-* Data Modeling 
+### Data Modeling 
 ![data](EmployeeSQL/ERD/employees_erd1.png)
