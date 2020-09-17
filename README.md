@@ -8,6 +8,7 @@ This project involves conducting a research project on employees of the corporat
 
 ## Objectives 
 ### Data Modeling 
+Inspect the CSVs and sketch out an ERD of the tables using a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com)
 ![data](EmployeeSQL/ERD/employees_erd1.png)
 
 ### Data Engineering 
