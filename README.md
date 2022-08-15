@@ -170,4 +170,4 @@ SELECT last_name, COUNT(first_name) AS "last_name_count"
 
 
 ## Employee Salary
-![data2](EmployeeSQL/Bonus/SalariesVsTitles.png)
+![data2](EmployeeSQL/Analysis-python-sqlalchemy/SalariesVsTitles.png)
